@@ -1,2 +1,2 @@
-print('hi rue')
-print('hi d')
+print('hi ru')
+print('hi damian')
